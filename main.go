@@ -2,14 +2,14 @@ package main
 
 import (
 	// Modules of packwiz
-	"github.com/packwiz/packwiz/cmd"
-	_ "github.com/packwiz/packwiz/curseforge"
-	_ "github.com/packwiz/packwiz/github"
-	_ "github.com/packwiz/packwiz/migrate"
-	_ "github.com/packwiz/packwiz/modrinth"
-	_ "github.com/packwiz/packwiz/settings"
-	_ "github.com/packwiz/packwiz/url"
-	_ "github.com/packwiz/packwiz/utils"
+	"github.com/AvalonServers/packwiz/cmd"
+	_ "github.com/AvalonServers/packwiz/curseforge"
+	_ "github.com/AvalonServers/packwiz/github"
+	_ "github.com/AvalonServers/packwiz/migrate"
+	_ "github.com/AvalonServers/packwiz/modrinth"
+	_ "github.com/AvalonServers/packwiz/settings"
+	_ "github.com/AvalonServers/packwiz/url"
+	_ "github.com/AvalonServers/packwiz/utils"
 )
 
 func main() {

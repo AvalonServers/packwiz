@@ -4,7 +4,7 @@ import (
 	"archive/zip"
 	"encoding/json"
 	"fmt"
-	"github.com/packwiz/packwiz/cmdshared"
+	"github.com/AvalonServers/packwiz/cmdshared"
 	"github.com/spf13/viper"
 	"golang.org/x/exp/slices"
 	"net/url"
@@ -12,7 +12,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/packwiz/packwiz/core"
+	"github.com/AvalonServers/packwiz/core"
 	"github.com/spf13/cobra"
 )
 

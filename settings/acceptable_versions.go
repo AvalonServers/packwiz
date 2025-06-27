@@ -2,8 +2,8 @@ package settings
 
 import (
 	"fmt"
-	"github.com/packwiz/packwiz/cmdshared"
-	"github.com/packwiz/packwiz/core"
+	"github.com/AvalonServers/packwiz/cmdshared"
+	"github.com/AvalonServers/packwiz/core"
 	"github.com/spf13/cobra"
 	"github.com/unascribed/FlexVer/go/flexver"
 	"golang.org/x/exp/slices"

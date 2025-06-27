@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/packwiz/packwiz/core"
+	"github.com/AvalonServers/packwiz/core"
 	"io"
 	"os"
 )

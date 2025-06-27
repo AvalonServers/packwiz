@@ -13,8 +13,8 @@ import (
 	"strings"
 
 	"github.com/mitchellh/mapstructure"
-	"github.com/packwiz/packwiz/cmd"
-	"github.com/packwiz/packwiz/core"
+	"github.com/AvalonServers/packwiz/cmd"
+	"github.com/AvalonServers/packwiz/core"
 	"github.com/spf13/cobra"
 )
 

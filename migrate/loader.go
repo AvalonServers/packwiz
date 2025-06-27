@@ -2,8 +2,8 @@ package migrate
 
 import (
 	"fmt"
-	"github.com/packwiz/packwiz/cmdshared"
-	"github.com/packwiz/packwiz/core"
+	"github.com/AvalonServers/packwiz/cmdshared"
+	"github.com/AvalonServers/packwiz/core"
 	"github.com/spf13/cobra"
 	"golang.org/x/exp/slices"
 	"os"

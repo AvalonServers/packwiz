@@ -3,14 +3,14 @@ package curseforge
 import (
 	"errors"
 	"fmt"
-	"github.com/packwiz/packwiz/cmdshared"
+	"github.com/AvalonServers/packwiz/cmdshared"
 	"github.com/sahilm/fuzzy"
 	"github.com/spf13/viper"
 	"golang.org/x/exp/slices"
 	"os"
 	"strings"
 
-	"github.com/packwiz/packwiz/core"
+	"github.com/AvalonServers/packwiz/core"
 	"github.com/spf13/cobra"
 	"gopkg.in/dixonwille/wmenu.v4"
 )
